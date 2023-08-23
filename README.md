@@ -8,9 +8,9 @@ This project is a simple website designed to provide sign up form for the studen
 ## Platform: VS Code
 
 ## Structure
--index.html: The main HTML file containing the structure and content of the website.
--StudenT Login.html: Contains the code for the login page for the students.
--style.css: Contains the styles of the website.
--images: include the images used in the website design.
--README.md: the documentation you are currently reading.
+index.html: The main HTML file containing the structure and content of the website.
+StudenT Login.html: Contains the code for the login page for the students.
+style.css: Contains the styles of the website.
+images: include the images used in the website design.
+README.md: the documentation you are currently reading.
 
